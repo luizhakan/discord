@@ -3,5 +3,4 @@ SCRIPT FEITO PARA INSTALAR O DISCORD E SUAS DEPENDÊNCIAS AUTOMATICAMENTE NO DEB
 
 COMO USAR:
 
-cd discord
-sudo sh discord.sh
+cd discord && sudo sh discord.sh
